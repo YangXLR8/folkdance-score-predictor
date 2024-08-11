@@ -2,7 +2,7 @@
 <h3 align="center">Computer Vision Final Project</h3>
 
 <p align="center">
-  <img width="700" src="" alt="cli output"/>
+  <img width="700" src="https://github.com/YangXLR8/folkdance-scorer/blob/main/images/image.png" alt="cli output"/>
 </p>
 
 ## Description
@@ -55,4 +55,5 @@ This project displays the results at the `mediapipe.ipynb`.
 👤 **Valente, Nhilbert Jay** - Github: [@NhilbertJayValente](https://github.com/NhilbertJayValente)
 
 
-Note: This project is currently under development and continues to be refined.
+
+**Note: This project is currently under development and continues to be refined.**
