@@ -53,3 +53,6 @@ This project displays the results at the `mediapipe.ipynb`.
 👤 **Sardañas, Reah Mae** - Github: [@YangXLR8](https://github.com/YangXLR8)
 
 👤 **Valente, Nhilbert Jay** - Github: [@NhilbertJayValente](https://github.com/NhilbertJayValente)
+
+
+Note: This project is currently under development and continues to be refined.
